@@ -1,2 +1,2 @@
-startTime,userid,user,actualEndTime,deviceName,estimatedEndTime,deviceid,id
-2021-02-02T09:18:53.663Z,1,Dan,2021-02-02T11:21:48Z,ELE-L29,2021-02-02T10:53:53.663Z,1,1
+startTime;userId;user;actualEndTime;deviceName;estimatedEndTime;deviceId;id
+2021-02-02T09:18:53.663Z;1;Dan;2021-02-02T11:21:48Z;P30;2021-02-02T10:53:53.663Z;1;1
